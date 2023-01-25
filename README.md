@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yogiraj Thombre</h1>
 <h3 align="center">Self-taught programmer exploring new tech skills and trying to improve 1% every day.</h3>
 
-- 🌱 I’m currently learning **Data Structures and Algorithms, Kotlin,Different Android Concepts**
+- 🌱 I’m currently learning **IOS development , SwiftUi , DataStructures and Algorithms and different android concepts**
 
 - 💬 Ask me about **Android Development,Java,Internet of Things**
 
