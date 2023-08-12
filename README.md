@@ -1,7 +1,13 @@
 # Yogiraj Thombre
 
 <div style="text-align: justify;">
-In 2021, I graduated with a bachelor's degree in Electrical Engineering.I stumbled across programming while studying in college and haven't looked back since.For the past four years, I've been learning programming from YouTube.My primary interest is in Android development.I've developed and debugged Android apps in a range of domains, including IOT, AR, EDTech, Robotics, Social Media, and AOSP-based HMI systems.Currently I am learning and exploring iOS development,Data Structures algorithms,Low level Design,High Level Design.If you want to get in touch, feel free to reach out to me on <a href="https://www.linkedin.com/in/yogiraj-thombre-2615a81b2">LinkedIn</a>.
+  
+In 2021, I graduated with a bachelor's degree in Electrical Engineering.While in college, I stumbled upon programming and haven't looked back since.
+  
+Over the last four years, I've been acquiring programming skills through YouTube, with a particular focus on Android development. I've successfully developed,debugged and released Android applications across various domains such as IOT, AR, EDTech, Robotics, Social Media, and AOSP-based HMI systems from small,medium sized companies to well known global brands.
+  
+Currently I am learning and exploring iOS development,Data Structures algorithms,Low level Design.If you want to get in touch, feel free to reach out to me on <a href="https://www.linkedin.com/in/yogiraj-thombre-2615a81b2">LinkedIn</a>.
+
 <br/>
 Also, my GitHub account showcases my contributions and side projects, which I use as my portfolio. Check it out!
 </div>
